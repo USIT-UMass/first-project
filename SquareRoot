@@ -1,1 +1,4 @@
-
+public int sqrt(int num1){
+  int a = num1;
+  System.out.println(Math.sqrt(a));
+}
